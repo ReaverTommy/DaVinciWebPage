@@ -1,0 +1,172 @@
+body
+{
+	background-image: url(fond.jpg);
+	background-size: contain;
+	background-position-x: 60px;
+	background-attachment: fixed;
+	margin-right: 65px;
+	margin-left: 60px;
+}
+
+#background-video 
+{
+	height: 100vh;
+	width: 100vw;
+	object-fit: cover;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: -1;
+}
+
+h2
+{
+	font-family : Copperplate Gothic;
+	font-size: 30px;
+	text-align: left;
+	background-color:  #0a1c40;
+	border-width: 2px ;
+	border-radius: 10px;
+	margin-top: 40px;
+	margin-right: 750px;
+	margin-left: 200px;
+	text-decoration: underline;
+}
+
+h3
+{
+	font-family : Copperplate Gothic;
+	font-size: 30px;
+	background-color:  #0a1c40;
+	border-width: 2px ;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	margin-right: 125px;
+	margin-left: 730px;
+	text-decoration: underline;
+}
+
+h4
+{
+	font-family : Copperplate Gothic;
+	font-size: 30px;
+	text-align: right;
+	text-decoration: underline;
+	background-color:  #0a1c40;
+	border-width: 2px blue;
+	border-radius: 10px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-right: 0px;
+	margin-left: 890px;
+}
+
+h5
+{
+	font-family : Copperplate Gothic;
+	font-size: 30px;
+	text-align: left;
+	text-decoration: underline;
+	background-color:  #0a1c40;
+	border-width: 2px blue;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	margin-right: 1000px;
+}
+
+q
+{
+	background-color:  #0a1c40;
+	font-size: 20px;
+	font-family : Baskerville;
+	margin-right: 100px;
+	margin-left: 50px;
+	color: orange;
+	text-align: center;
+}
+
+figcaption{color: black; font-weight: bold; font-family : Baskerville;}	
+
+.ici
+{
+	background-color: transparent;
+	border: 8px solid gray;
+	font-size: 40px;
+	color: gray;
+}
+
+.bioindex
+{
+	font-size: 40px;
+	background-color: transparent;
+	border: 8px solid gray;
+	font-size: 40px;
+	color: gray;
+	margin-left: 10px;
+	font-family : Copperplate Gothic;
+}
+
+.bio
+{
+	margin-left: 10px;
+	background-color: transparent;
+	border: 8px solid #0a1c40;
+	font-size: 40px;
+	text-decoration: none;
+	font-family : Copperplate Gothic;
+}
+
+.menu
+{
+	background-color: transparent;
+	border: 8px solid #0a1c40;
+	font-size: 40px;
+	text-decoration: none;
+	font-family : Copperplate Gothic;
+}
+
+.pasUL {text-decoration: none; color: #0a1c40;}
+
+
+
+p.text
+{
+	color: white;
+	background-color:  #0a1c40;
+	font-size: 20px;
+	font-family : Baskerville;
+	line-height: 150%;
+}
+
+
+ol
+{
+	background-color:  #0a1c40;
+	font-size: 20px;
+	font-weight: bold;
+	font-family : Baskerville;
+	margin-right: 870px;
+	margin-left: 0px;
+}
+
+li {color: black; font-family : Baskerville;}
+
+li.som {color: white; font-family : Baskerville;}
+	
+img 
+{
+  max-width:250px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+}
+
+img.oeuvres
+{
+  max-width:500px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
