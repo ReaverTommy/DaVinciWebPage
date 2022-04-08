@@ -31,7 +31,7 @@ h2
 	border-width: 2px ;
 	border-radius: 10px;
 	margin-top: 40px;
-	margin-right: 750px;
+	margin-right: 900px;
 	margin-left: 200px;
 	text-decoration: underline;
 }
@@ -105,13 +105,13 @@ figcaption{color: black; font-weight: bold; font-family : Baskerville;}
 	border: 8px solid gray;
 	font-size: 40px;
 	color: gray;
-	margin-left: 200px;
+	margin-left: 300px;
 	font-family : Copperplate Gothic;
 }
 
 .bio
 {
-	margin-left: 200px;
+	margin-left: 300px;
 	background-color: transparent;
 	border: 8px solid #0a1c40;
 	font-size: 40px;
